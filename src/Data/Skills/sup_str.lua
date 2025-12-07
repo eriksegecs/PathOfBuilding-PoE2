@@ -541,7 +541,7 @@ incrementalEffectiveness = 0.054999999701977,
 statDescriptionScope = "gem_stat_descriptions",
 statMap = {
 ["gain_%_of_damage_as_physical_per_20_life_cost"] = {
-mod("DamageGainAsPhysical", "BASE", nil, 0, 0, { type = "PerStat", stat = "LifeCost", div = 20, limit = 20, limitTotal = true }),
+mod("DamageGainAsPhysical", "BASE", nil, 0, 0, { type = "PerStat", stat = "LifeCost", div = 20, limit = 40, limitTotal = true }),
 },
 },
 baseFlags = {
