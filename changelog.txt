@@ -1,5 +1,12 @@
 VERSION[0.12.3][2025/12/07]
 
+--- Other changes ---
+- Update Atalui's Bloodletting support scaling (eriksegecs)
+- force pipeline (eriksegecs)
+
+
+VERSION[0.12.3][2025/12/07]
+
 --- Fixed Calculations ---
 - Cap Atalui's Bloodletting extra Physical Damage at 40% when scaling 2% per 20 Life cost and remove its cost multiplier (Codex)
 

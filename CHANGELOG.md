@@ -1,5 +1,17 @@
 # Changelog
 
+## [v0.12.3](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/tree/v0.12.3) (2025/12/07)
+
+[Full Changelog](https://github.com/eriksegecs/PathOfBuilding-PoE2/commits/v0.12.3)
+
+
+## What's Changed
+### Other changes
+- Update Atalui's Bloodletting support scaling [\#1](https://github.com/eriksegecs/PathOfBuilding-PoE2/pull/1) ([eriksegecs](https://github.com/eriksegecs))
+- force pipeline [\#2](https://github.com/eriksegecs/PathOfBuilding-PoE2/pull/2) ([eriksegecs](https://github.com/eriksegecs))
+
+
+
 ## [v0.12.2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/tree/v0.12.2) (2025/09/16)
 
 [Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/compare/v0.12.1...v0.12.2)
